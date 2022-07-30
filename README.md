@@ -1,3 +1,3 @@
-#Very overkill Landing Page
+# :sparkles: (Very) overkill Landing Page
 
 Linking to my Creative Coding Ideas
