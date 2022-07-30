@@ -3,9 +3,9 @@
 	import '../global.css';
 
 	let Entries = [
-		{ label: 'McBoaty', link: 'https://p-jeff.github.io/McBoaty/', enabled: true },
-		{ label: 'Music Visalizer', link: 'https://p-jeff.github.io/MusicVisBox/', enabled: false },
-		{ label: 'GaBot', link: 'https://p-jeff.github.io/gabot/', enabled: false }
+		{ label: '🚣 McBoaty', link: 'https://p-jeff.github.io/McBoaty/', enabled: true },
+		{ label: '🎵 Strokes', link: 'https://p-jeff.github.io/dots/', enabled: true },
+		{ label: '🫧 GaBot', link: 'https://p-jeff.github.io/gabot/', enabled: true }
 	];
 </script>
 
@@ -25,10 +25,6 @@
 	linking my ideas :) <br />
 </h3>
 
-<h3 class="red">
-	I am currently restructuring my GitHub which is why some are diabled at the moment
-</h3>
-
 <style>
 	h3 {
 		text-align: right;
@@ -37,9 +33,7 @@
 
 		font: 1.5em Raleway;
 	}
-	.red {
-		color: rgb(214, 100, 100);
-	}
+
 	.left {
 		text-align: left;
 		max-width: 50%;
